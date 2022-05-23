@@ -1,0 +1,13 @@
+F:\repos\UnitTestingExercise\UnitTestingExercise\bin\Debug\netcoreapp3.0\UnitTestingExercise.exe
+F:\repos\UnitTestingExercise\UnitTestingExercise\bin\Debug\netcoreapp3.0\UnitTestingExercise.deps.json
+F:\repos\UnitTestingExercise\UnitTestingExercise\bin\Debug\netcoreapp3.0\UnitTestingExercise.runtimeconfig.json
+F:\repos\UnitTestingExercise\UnitTestingExercise\bin\Debug\netcoreapp3.0\UnitTestingExercise.runtimeconfig.dev.json
+F:\repos\UnitTestingExercise\UnitTestingExercise\bin\Debug\netcoreapp3.0\UnitTestingExercise.dll
+F:\repos\UnitTestingExercise\UnitTestingExercise\bin\Debug\netcoreapp3.0\UnitTestingExercise.pdb
+F:\repos\UnitTestingExercise\UnitTestingExercise\obj\Debug\netcoreapp3.0\UnitTestingExercise.csproj.AssemblyReference.cache
+F:\repos\UnitTestingExercise\UnitTestingExercise\obj\Debug\netcoreapp3.0\UnitTestingExercise.AssemblyInfoInputs.cache
+F:\repos\UnitTestingExercise\UnitTestingExercise\obj\Debug\netcoreapp3.0\UnitTestingExercise.AssemblyInfo.cs
+F:\repos\UnitTestingExercise\UnitTestingExercise\obj\Debug\netcoreapp3.0\UnitTestingExercise.csproj.CoreCompileInputs.cache
+F:\repos\UnitTestingExercise\UnitTestingExercise\obj\Debug\netcoreapp3.0\UnitTestingExercise.dll
+F:\repos\UnitTestingExercise\UnitTestingExercise\obj\Debug\netcoreapp3.0\UnitTestingExercise.pdb
+F:\repos\UnitTestingExercise\UnitTestingExercise\obj\Debug\netcoreapp3.0\UnitTestingExercise.genruntimeconfig.cache
